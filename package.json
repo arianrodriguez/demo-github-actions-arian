@@ -1,0 +1,23 @@
+{
+  "name": "demo-github-actions-arian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianrodriguez/demo-github-actions-arian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianrodriguez/demo-github-actions-arian/issues"
+  },
+  "homepage": "https://github.com/arianrodriguez/demo-github-actions-arian#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
